@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aking28/Final-Project/issues"
   },
-  "homepage": "https://github.com/aking28/Final-Project#readme"
+  "homepage": "https://github.com/aking28/Final-Project#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
